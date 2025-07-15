@@ -11,7 +11,7 @@ The goal of this project is to provide a clear, educational implementation of GP
 
 - **Book:** *Build LLMs from Scratch*
 - **Instructor:** Dr. Raj
-- **Platform:** [Vizuara AI YouTube Channel](https://www.youtube.com/@vizuaraAI)
+- **Platform:** [Vizuara AI YouTube Channel](https://www.youtube.com/@vizuara)
 
 ## 🚀 Features
 
